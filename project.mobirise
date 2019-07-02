@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TAL Mock Up ",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -513,7 +513,7 @@
               "background-image": "url(@bg-value)"
             },
             "P": {
-              "color": "#767676"
+              "color": "#232323"
             },
             "H1": {
               "text-align": "left"
