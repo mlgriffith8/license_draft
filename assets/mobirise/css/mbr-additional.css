@@ -1848,9 +1848,9 @@ body {
   font-weight: 300;
 }
 .cid-ruwX7hrgWE .step {
-  width: 60px;
-  height: 60px;
-  font-size: 30px;
+  width: 52px;
+  height: 52px;
+  font-size: 26px;
   border-radius: 50%;
   border: 2px solid #149dcc;
   padding-bottom: 0;
@@ -1861,18 +1861,18 @@ body {
   }
   .cid-ruwX7hrgWE .separline .step-wrapper:before,
   .cid-ruwX7hrgWE .separline .step-wrapper:after {
-    top: 32px;
+    top: 28px;
     position: absolute;
     content: "";
     height: 2px;
-    width: calc(50% + 15px - 30px - 8px);
+    width: calc(50% + 15px - 26px - 8px);
     background-color: #149dcc;
   }
   .cid-ruwX7hrgWE .separline .step-wrapper:before {
     left: -15px;
   }
   .cid-ruwX7hrgWE .separline .step-wrapper:after {
-    left: calc(50% + 8px + 30px);
+    left: calc(50% + 8px + 26px);
   }
   .cid-ruwX7hrgWE .separline.last-child .step-wrapper:after,
   .cid-ruwX7hrgWE .separline:nth-child(3n) .step-wrapper:after,
@@ -1993,6 +1993,9 @@ body {
 .cid-ruwTveHHJV .card-title,
 .cid-ruwTveHHJV .card-img {
   color: #149dcc;
+}
+.cid-ruwTveHHJV P {
+  color: #232323;
 }
 .cid-ruwWRZJnjY {
   padding-top: 15px;
@@ -2149,7 +2152,7 @@ body {
 .cid-ruxgpU50n0 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/background13.jpg");
+  background-image: url("../../../assets/images/background16.jpg");
 }
 .cid-ruxgpU50n0 H2 {
   color: #ffffff;
@@ -3006,7 +3009,7 @@ body {
 .cid-rv099GeBPB {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background44.jpg");
+  background-image: url("../../../assets/images/background47.jpg");
 }
 .cid-ruBS4yolaz {
   padding-top: 15px;
@@ -3726,7 +3729,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rv09oki6Ha {
-  background-image: url("../../../assets/images/background15.jpg");
+  background-image: url("../../../assets/images/background18.jpg");
 }
 .cid-rv09oki6Ha .mbr-section-subtitle {
   letter-spacing: .2rem;
@@ -3790,7 +3793,7 @@ body {
 .cid-rv0bdRdb8D {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background44.jpg");
+  background-image: url("../../../assets/images/background47.jpg");
 }
 .cid-ruYGlRgqd9 {
   padding-top: 30px;
@@ -3868,7 +3871,7 @@ body {
 .cid-rv091VoIfJ {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background44.jpg");
+  background-image: url("../../../assets/images/background47.jpg");
 }
 .cid-ruxnWLJd4l .navbar {
   padding: .5rem 0;
